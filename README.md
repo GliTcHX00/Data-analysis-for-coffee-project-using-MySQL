@@ -2,7 +2,7 @@
 
 # Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023
----
+
 # Key Tasks
 --
 1. Coffee Consumers Count
