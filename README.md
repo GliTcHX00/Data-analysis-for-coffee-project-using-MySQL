@@ -6,34 +6,34 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 #Key Tasks
 
 1. Coffee Consumers Count
-How many people in each city are estimated to consume coffee, given that 25% of the population does?
-<br />
+How many people in each city are estimated to consume coffee, given that 25% of the population does?<br />
+
 2. Total Revenue from Coffee Sales
-What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
-<br />
+What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?<br />
+
 3. Sales Count for Each Product
-How many units of each coffee product have been sold?
-<br />
+How many units of each coffee product have been sold?<br />
+
 4. Average Sales Amount per City
-What is the average sales amount per customer in each city?
-<br />
+What is the average sales amount per customer in each city?<br />
+
 5. City Population and Coffee Consumers
-Provide a list of cities along with their populations and estimated coffee consumers.
-<br />
+Provide a list of cities along with their populations and estimated coffee consumers.<br />
+
 6. Top Selling Products by City
-What are the top 3 selling products in each city based on sales volume?
-<br />
+What are the top 3 selling products in each city based on sales volume?<br />
+
 7. Customer Segmentation by City
-How many unique customers are there in each city who have purchased coffee products?
-<br />
+How many unique customers are there in each city who have purchased coffee products?<br />
+
 8. Average Sale vs Rent
-Find each city and their average sale per customer and avg rent per customer
-<br />
+Find each city and their average sale per customer and avg rent per customer<br />
+
 9. Monthly Sales Growth
-Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
-<br />
+Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).<br />
+
 10. Market Potential Analysis
-Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
+Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer.<br />
 ---
 # Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
